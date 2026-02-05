@@ -1,0 +1,12 @@
+Hit: gb|XVG74349.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCi]
+Score: 89.0
+E-value: 3.1678
+
+Hit: ref|WP_439688929.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCp] >gb|XVG81840.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCp]
+Score: 89.0
+E-value: 3.70341
+
+Hit: ref|WP_290131051.1| NADP-dependent oxidoreductase [Curtobacterium sp. 458] >gb|WJX98630.1| NADP-dependent oxidoreductase [Curtobacterium sp. 458]
+Score: 89.0
+E-value: 3.73974
+

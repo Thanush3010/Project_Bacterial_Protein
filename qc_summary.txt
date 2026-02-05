@@ -1,0 +1,25 @@
+Sequence ID: Hypothtical_metabolic_protein_Bacillus
+Sequence Length: 94 amino acids
+Molecular Weight: 8750.11 Da
+
+Amino Acid Composition (%):
+A: 23.40
+C: 1.06
+D: 3.19
+E: 3.19
+F: 0.00
+G: 18.09
+H: 0.00
+I: 2.13
+K: 5.32
+L: 9.57
+M: 3.19
+N: 0.00
+P: 1.06
+Q: 4.26
+R: 1.06
+S: 3.19
+T: 5.32
+V: 14.89
+W: 0.00
+Y: 1.06

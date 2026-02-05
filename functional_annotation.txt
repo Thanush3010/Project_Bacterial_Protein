@@ -1,0 +1,20 @@
+FUNCTIONAL ANNOTATION REPORT
+========================================
+
+Top Hit 1:
+Protein: gb|XVG74349.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCi]
+Score: 89.0
+E-value: 3.1678
+
+Top Hit 2:
+Protein: ref|WP_439688929.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCp] >gb|XVG81840.1| NADP-dependent oxidoreductase [Curtobacterium sp. SP.BCp]
+Score: 89.0
+E-value: 3.70341
+
+Top Hit 3:
+Protein: ref|WP_290131051.1| NADP-dependent oxidoreductase [Curtobacterium sp. 458] >gb|WJX98630.1| NADP-dependent oxidoreductase [Curtobacterium sp. 458]
+Score: 89.0
+E-value: 3.73974
+
+Predicted Function:
+The hypothetical protein shows strong similarity to conserved bacterial metabolic enzymes. Based on homology, it is predicted to participate in core cellular metabolic processes.
